@@ -23,7 +23,7 @@ To run the Booking App on your local environment, follow the instructions below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vatsalgabani64/booking-app.git
+   git clone https://github.com/Darshan31Patel/booking-app.git
 2. Navigate to the project directory:
    
     ```bash
